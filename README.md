@@ -1,6 +1,7 @@
 # Sports Activity Analysis on the Human Action Dataset (HAD)
 
-This machine learning model implementation tries to classify sports activity from fMRI data, brain signals, available at Human Action Dataset https://doi.org/10.18112/openneuro.ds004488.v1.1.1
+This machine learning model implementation has been done for LJMU Masters Thesis.
+Here we classify sports activity from fMRI data, brain signals, available at Human Action Dataset https://doi.org/10.18112/openneuro.ds004488.v1.1.1
 
 ## Prerequisite Installation
 For installation of packages follow below instructions:
